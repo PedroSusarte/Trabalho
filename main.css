@@ -1,0 +1,189 @@
+body {
+    background-color: #ffffff;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    font-size: xx-large;
+    text-align: center;
+}
+.container01 {
+    position: absolute;
+  top: 40%;
+  left: 20%;
+  transform: translate(-30%, -30%);
+}
+.botao01 {
+    background-color: white;
+    cursor: pointer; /* Cursor ao passar por cima */
+    border-radius: 10px; /* Borda arredondada */
+    width: 100px; /* Largura desejada */
+    height: 50px; /* Altura desejada */
+}
+
+.container02 {
+    position: absolute;
+  top: 40%;
+  left: 40%;
+  transform: translate(-30%, -30%);
+}
+.botao02 {
+    background-color: rgb(255, 255, 255);
+    cursor: pointer; /* Cursor ao passar por cima */
+    border-radius: 10px; /* Borda arredondada */
+    width: 100px; /* Largura desejada */
+    height: 50px; /* Altura desejada */
+}
+
+.container03 {
+    position: absolute;
+  top: 40%;
+  left: 60%;
+  transform: translate(-30%, -30%);
+}
+.botao03 {
+    background-color: rgb(255, 255, 255);
+    cursor: pointer; /* Cursor ao passar por cima */
+    border-radius: 10px; /* Borda arredondada */
+    width: 100px; /* Largura desejada */
+    height: 50px; /* Altura desejada */
+}
+
+.container04 {
+    position: absolute;
+  top: 40%;
+  left: 80%;
+  transform: translate(-30%, -30%);
+}
+.botao04 {
+    background-color: rgb(255, 255, 255);
+    cursor: pointer; /* Cursor ao passar por cima */
+    border-radius: 10px; /* Borda arredondada */
+    width: 100px; /* Largura desejada */
+    height: 50px; /* Altura desejada */
+}
+
+.container05 {
+    position: absolute;
+  top: 55%;
+  left: 30%;
+  transform: translate(-30%, -30%);
+}
+.botao05 {
+    background-color: rgb(255, 255, 255);
+    cursor: pointer; /* Cursor ao passar por cima */
+    border-radius: 10px; /* Borda arredondada */
+    width: 100px; /* Largura desejada */
+    height: 50px; /* Altura desejada */
+}
+
+.container06 {
+    position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translate(-30%, -30%);
+}
+.botao06 {
+    background-color: rgb(255, 255, 255);
+    cursor: pointer; /* Cursor ao passar por cima */
+    border-radius: 10px; /* Borda arredondada */
+    width: 100px; /* Largura desejada */
+    height: 50px; /* Altura desejada */
+}
+
+.container07 {
+    position: absolute;
+  top: 55%;
+  left: 70%;
+  transform: translate(-30%, -30%);
+}
+.botao07 {
+    background-color: rgb(255, 255, 255);
+    cursor: pointer; /* Cursor ao passar por cima */
+    border-radius: 10px; /* Borda arredondada */
+    width: 100px; /* Largura desejada */
+    height: 50px; /* Altura desejada */
+}
+
+p {
+    color: rgb(0, 0, 0);
+    text-align: justify;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    font-size:larger;
+    width: 50%;
+}
+
+.paginicial{
+  color: rgb(0, 0, 0);
+    text-align: justify;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 3%;
+    font-size: x-large;
+}
+
+.img01 img{
+    width: 40%; 
+    height: 40%; 
+    margin: 10%;
+    margin-left: 57%;
+    margin-top: -40% ;
+}
+
+.img02 img{
+  width: 35%; 
+  height: 35%; 
+  margin: 10%;
+  margin-left: 60%;
+  margin-top: -40% ;
+}
+
+.img03 img{
+  width: 40%; 
+  height: 40%; 
+  margin: 10%;
+  margin-left: 58%;
+  margin-top: -17% ;
+}
+
+.img04 img{
+  width: 40%; 
+  height: 40%; 
+  margin: 10%;
+  margin-left: 58%;
+  margin-top: -26% ;
+}
+
+.img05 img{
+  width: 35%; 
+  height: 35%; 
+  margin: 10%;
+  margin-left: 60%;
+  margin-top: -23% ;
+}
+
+.img06 img{
+  width: 40%; 
+  height: 40%; 
+  margin: 10%;
+  margin-left: 58%;
+  margin-top: -16% ;
+}
+
+.img07 img{
+  width: 40%; 
+  height: 40%; 
+  margin: 10%;
+  margin-left: 58%;
+  margin-top: -15% ;
+}
+.img10 img{
+  width: 5%;
+  height: 5%;
+  margin-left: 5%;
+}
+.btn-toolbar button{
+  margin-left: 280%;
+}
